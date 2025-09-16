@@ -1,2 +1,5 @@
-# tech-511-lauren-first-app
-My first node app with Sparta.
+# Use this repo with Jenkins
+
+## About the app
+- "app" folder stores Sparta app
+- uses Node JS v20
